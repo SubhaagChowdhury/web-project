@@ -1,6 +1,6 @@
-# dlt operations through web 
+# bookings through web 
 
-This si the repository for blockchain operation using Golang Web Services
+This is the repository for bookings using Golang Web Services
 
 - Built in Go version 1.20
 - Uses [gorilla/mux](https://github.com/gorilla/mux)
